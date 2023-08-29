@@ -12,4 +12,4 @@ A continuacion detallaremos las consultas que se realizaron:
 >*Crear un informe resumido de los cursos y sus calificaciones, ordenados desde el curso mas dificil (curso con la calificacion promedio mas baja) hasta el curso mas facil:
 >*Saber que estudiante y que profesor tienen mas cursos en comun:
 
-**Los scripts se podran observar en el archivo ubicado dentro de este repositorio llamado *Scripts.sql* **
+__Los scripts se podran observar en el archivo ubicado dentro de este repositorio llamado "*Scripts.sql*"__
